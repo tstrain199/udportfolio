@@ -1,0 +1,7 @@
+{
+  "name": "grunt-contrib-imagemin",
+  "version": "1.0.1",
+  "devDependencies": {
+    "imagemin-jpegtran": "^5.0.2"
+  }
+}
